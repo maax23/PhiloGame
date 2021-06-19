@@ -1,7 +1,7 @@
 import pygame
 
 import pygame, sys
-from scripts.setting import settings
+from code.setting import settings
 
 
 pygame.init()
